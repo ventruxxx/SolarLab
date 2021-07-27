@@ -1,0 +1,13 @@
+C:\Users\Яна\Desktop\Слава\Учеба\SolarLab\Тестовое задание\TestApp\TestApp\obj\Debug\netcoreapp3.1\TestApp.csprojAssemblyReference.cache
+C:\Users\Яна\Desktop\Слава\Учеба\SolarLab\Тестовое задание\TestApp\TestApp\obj\Debug\netcoreapp3.1\TestApp.AssemblyInfoInputs.cache
+C:\Users\Яна\Desktop\Слава\Учеба\SolarLab\Тестовое задание\TestApp\TestApp\obj\Debug\netcoreapp3.1\TestApp.AssemblyInfo.cs
+C:\Users\Яна\Desktop\Слава\Учеба\SolarLab\Тестовое задание\TestApp\TestApp\obj\Debug\netcoreapp3.1\TestApp.csproj.CoreCompileInputs.cache
+C:\Users\Яна\Desktop\Слава\Учеба\SolarLab\Тестовое задание\TestApp\TestApp\bin\Debug\netcoreapp3.1\TestApp.exe
+C:\Users\Яна\Desktop\Слава\Учеба\SolarLab\Тестовое задание\TestApp\TestApp\bin\Debug\netcoreapp3.1\TestApp.deps.json
+C:\Users\Яна\Desktop\Слава\Учеба\SolarLab\Тестовое задание\TestApp\TestApp\bin\Debug\netcoreapp3.1\TestApp.runtimeconfig.json
+C:\Users\Яна\Desktop\Слава\Учеба\SolarLab\Тестовое задание\TestApp\TestApp\bin\Debug\netcoreapp3.1\TestApp.runtimeconfig.dev.json
+C:\Users\Яна\Desktop\Слава\Учеба\SolarLab\Тестовое задание\TestApp\TestApp\bin\Debug\netcoreapp3.1\TestApp.dll
+C:\Users\Яна\Desktop\Слава\Учеба\SolarLab\Тестовое задание\TestApp\TestApp\bin\Debug\netcoreapp3.1\TestApp.pdb
+C:\Users\Яна\Desktop\Слава\Учеба\SolarLab\Тестовое задание\TestApp\TestApp\obj\Debug\netcoreapp3.1\TestApp.dll
+C:\Users\Яна\Desktop\Слава\Учеба\SolarLab\Тестовое задание\TestApp\TestApp\obj\Debug\netcoreapp3.1\TestApp.pdb
+C:\Users\Яна\Desktop\Слава\Учеба\SolarLab\Тестовое задание\TestApp\TestApp\obj\Debug\netcoreapp3.1\TestApp.genruntimeconfig.cache
